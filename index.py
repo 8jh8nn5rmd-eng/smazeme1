@@ -1,18 +1,18 @@
-#deklarace
+#Deklarace
 
 #hlavička
-
+ja vyvijm tady
 #Telo
 
-#nadpis
+#Nadpis
 <h1>Vitejte na me strance!</h1>
 
-#patička
+#Patička
 Super design patičky
 Tady bude nadupaný obsah patičky.
 bla bla bla 
 
-#podpati4ka
+#Podpati4ka
 tady bude taky něco
 
-#konec
+#Konec
