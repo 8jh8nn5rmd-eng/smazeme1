@@ -1,12 +1,12 @@
-#deklarace
+#Deklarace
 
-#hlavi4ka
-
+#Hlavi4ka
+ja vyvijm tady
 #Telo
 
-#nadpis
+#Nadpis
 <h1>Vitejte na me strance!</h1>
 
-#pati4ka
+#Pati4ka
 
-#konec
+#Konec
