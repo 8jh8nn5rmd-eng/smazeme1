@@ -1,3 +1,1 @@
-# smazeme1
-
-## 21.1. - Ondra - vytvoren index
+# Polodynamicky report Python, HTML, JS, JSON
